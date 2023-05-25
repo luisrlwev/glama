@@ -1,0 +1,36 @@
+[20-Oct-2020 00:22:32 America/New_York] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 24
+[20-Oct-2020 00:22:32 America/New_York] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 24
+[20-Oct-2020 00:22:32 America/New_York] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 567
+[20-Oct-2020 00:22:32 America/New_York] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 567
+[23-Nov-2020 10:59:01 America/New_York] PHP Notice:  Undefined index: nombre in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 92
+[25-Nov-2020 16:31:11 America/New_York] PHP Notice:  Undefined index: nombre in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 92
+[01-Dec-2020 23:38:06 America/New_York] PHP Notice:  Undefined index: nombre in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 92
+[01-Dec-2020 23:41:20 America/New_York] PHP Notice:  Undefined index: nombre in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 92
+[01-Dec-2020 23:57:32 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/mensaje-box.php on line 10
+[01-Dec-2020 23:57:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 10
+[01-Dec-2020 23:57:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 13
+[01-Dec-2020 23:57:52 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/mensaje-box.php on line 10
+[01-Dec-2020 23:57:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 10
+[01-Dec-2020 23:57:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 13
+[02-Dec-2020 00:17:23 America/New_York] PHP Warning:  include(conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/mensaje-box.php on line 2
+[02-Dec-2020 00:17:23 America/New_York] PHP Warning:  include(): Failed opening 'conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/mensaje-box.php on line 2
+[02-Dec-2020 00:17:23 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/mensaje-box.php on line 11
+[02-Dec-2020 00:17:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 11
+[02-Dec-2020 00:17:23 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 14
+[02-Dec-2020 00:17:45 America/New_York] PHP Warning:  include(../conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/mensaje-box.php on line 2
+[02-Dec-2020 00:17:45 America/New_York] PHP Warning:  include(): Failed opening '../conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/mensaje-box.php on line 2
+[02-Dec-2020 00:17:45 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/mensaje-box.php on line 11
+[02-Dec-2020 00:17:45 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 11
+[02-Dec-2020 00:17:45 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/comrksbq/glama.com.mx/mensaje-box.php on line 14
+[04-Jan-2021 22:48:30 America/New_York] PHP Notice:  Trying to access array offset on value of type int in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 176
+[04-Jan-2021 22:55:16 America/New_York] PHP Notice:  Undefined index: usuarios_admin.nombre in /home/comrksbq/glama.com.mx/detalle-mensaje.php on line 178
+[23-Jan-2021 14:46:23 America/New_York] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 25
+[23-Jan-2021 14:46:23 America/New_York] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 25
+[23-Jan-2021 14:46:23 America/New_York] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 566
+[23-Jan-2021 14:46:23 America/New_York] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 566
+[23-Jan-2021 14:47:57 America/New_York] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 25
+[23-Jan-2021 14:47:57 America/New_York] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 25
+[23-Jan-2021 14:47:57 America/New_York] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/index.php on line 566
+[23-Jan-2021 14:47:57 America/New_York] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/index.php on line 566
+[23-Jan-2021 15:00:59 America/New_York] PHP Warning:  move_uploaded_file(image/paypal.png): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/mensaje-box.php on line 264
+[23-Jan-2021 15:00:59 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwAEAkP' to 'image/paypal.png' in /home/comrksbq/glama.com.mx/mensaje-box.php on line 264

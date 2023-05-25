@@ -1,0 +1,84 @@
+[25-Jan-2021 11:50:52 America/New_York] PHP Notice:  Undefined index: idmsg in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 35
+[25-Jan-2021 11:50:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 50
+[25-Jan-2021 11:50:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 52
+[25-Jan-2021 11:50:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 58
+[25-Jan-2021 11:50:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 59
+[25-Jan-2021 11:51:10 America/New_York] PHP Notice:  Undefined index: idmsg in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 35
+[25-Jan-2021 11:51:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 50
+[25-Jan-2021 11:51:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 52
+[25-Jan-2021 11:51:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 58
+[25-Jan-2021 11:51:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 59
+[25-Jan-2021 13:59:27 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 8
+[25-Jan-2021 14:01:41 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 8
+[25-Jan-2021 14:09:41 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 8
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: uploadfile1 in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 62
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 62
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: uploadfile2 in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 75
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 75
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: uploadfile3 in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 88
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 88
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: uploadfile4 in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 100
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 100
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: uploadfile5 in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 113
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 113
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 127
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: asuntoMsj in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 143
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Undefined index: idmsg in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 193
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 208
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 210
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 216
+[25-Jan-2021 14:50:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 217
+[27-Jan-2021 15:00:56 America/New_York] PHP Notice:  Undefined index: idmsg in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 270
+[27-Jan-2021 15:00:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 285
+[27-Jan-2021 15:00:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 287
+[27-Jan-2021 15:00:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 293
+[27-Jan-2021 15:00:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 294
+[27-Jan-2021 15:03:17 America/New_York] PHP Notice:  Undefined index: idmsg in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 270
+[27-Jan-2021 15:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 285
+[27-Jan-2021 15:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 287
+[27-Jan-2021 15:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 293
+[27-Jan-2021 15:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 294
+[27-Jan-2021 15:07:37 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:08:05 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:09:02 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:10:35 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:10:43 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:10:52 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:21:48 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:21:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:21:48 America/New_York] PHP Warning:  move_uploaded_file(image/image (25).png): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 143
+[27-Jan-2021 15:21:48 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmc3RkF' to 'image/image (25).png' in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 143
+[27-Jan-2021 15:21:48 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:23:54 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:23:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:23:54 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:25:29 America/New_York] PHP Warning:  include(conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:25:29 America/New_York] PHP Warning:  include(): Failed opening 'conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:25:29 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:25:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:25:29 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:26:59 America/New_York] PHP Warning:  include(admin/lib/conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:26:59 America/New_York] PHP Warning:  include(): Failed opening 'admin/lib/conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:26:59 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:26:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:26:59 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:27:32 America/New_York] PHP Warning:  include(/admin/lib/conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:27:32 America/New_York] PHP Warning:  include(): Failed opening '/admin/lib/conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:27:32 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:27:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:27:32 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:28:36 America/New_York] PHP Warning:  include(/admin/lib/conexionDB.php): failed to open stream: No such file or directory in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:28:36 America/New_York] PHP Warning:  include(): Failed opening '/admin/lib/conexionDB.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 63
+[27-Jan-2021 15:28:36 America/New_York] PHP Notice:  Undefined variable: ConexMySQL in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:28:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 80
+[27-Jan-2021 15:28:36 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:29:49 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:41:59 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:42:51 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 204
+[27-Jan-2021 15:44:55 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:44:55 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 295
+[27-Jan-2021 15:44:57 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 292
+[27-Jan-2021 15:44:57 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 295
+[27-Jan-2021 15:45:28 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 295
+[27-Jan-2021 15:45:36 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 295
+[27-Jan-2021 15:46:18 America/New_York] PHP Notice:  Undefined index: email in /home/comrksbq/glama.com.mx/admin/responder-mensaje.php on line 295
